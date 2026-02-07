@@ -19,6 +19,7 @@ export default function Home() {
           </h1>
         </div>
 
+       
         {/* Navigation Items */}
         <nav className="flex-1 px-4 space-y-2 mt-4">
           <Link 
